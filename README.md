@@ -1,6 +1,8 @@
 
 # Olá, eu sou Lorena Morais!✌️😊
 
+Desenvolvedora web full stack e engenheira eletrônica em formação pela UTFPR - Campus Campo Mourão. Apaixonada por tecnologia e inovação. Experiência em projetos de desenvolvimento de software e eletrônica, entregando soluções de alta qualidade em equipes multidisciplinares. Habilidades em JavaScript, TypeScript, React e Node.js para desenvolvimento de aplicativos web e móveis intuitivos e interativos.
+
 <div style="display: inline"><br/>
     <a href="https://www.instagram.com/lorenam.morais/" align="center" alt="Instagram" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/lorenammorais/" align="center" alt="Linkedin" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
