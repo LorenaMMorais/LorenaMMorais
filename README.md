@@ -9,11 +9,10 @@ Desenvolvedora web full stack e engenheira eletrônica em formação pela UTFPR 
     <a href="mailto:moraislorena31@gmail.com" align="center" alt="Gmail" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 </br>
-<p align="center"><br/>
+
 ![Lorena Morais GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenaMMorais&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaMMorais)](https://github.com/LorenaMMorais/github-readme-stats)
-</p>
 
 ## Tecnologias
 
