@@ -11,7 +11,7 @@ Desenvolvedora web full stack e engenheira eletrônica em formação pela UTFPR 
 </br>
 
 <p align="center">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=LorenaMMorais&show_icons=true&theme=dracula"/>
+  <img height="200px" width="480px" src="https://github-readme-stats.vercel.app/api?username=LorenaMMorais&show_icons=true&theme=dracula"/>
   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaMMorais&count_private=true&hide=python&langs_count=10&layout=compact&theme=tokyonight"/>    
 </p>
 
