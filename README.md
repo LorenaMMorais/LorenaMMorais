@@ -33,7 +33,6 @@ Desenvolvedora web full stack e engenheira eletrônica em formação pela UTFPR 
 </div>
 <p align="center">
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-@@ -49,13 +50,14 @@
    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
