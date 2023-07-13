@@ -10,9 +10,10 @@ Desenvolvedora web full stack e engenheira eletrônica em formação pela UTFPR 
 </p>
 </br>
 
-![Lorena Morais GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenaMMorais&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaMMorais)](https://github.com/LorenaMMorais/github-readme-stats)
+<p align="center">
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=LorenaMMorais&show_icons=true&theme=dracula"/>
+  <img height="200px" width="480px" src="https://github-readme-stats.vercel.app/api?username=LorenaMMorais&count_private=true&theme=tokyonight&layout=compact"/>
+</p>
 
 ## Tecnologias
 
